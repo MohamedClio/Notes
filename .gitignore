@@ -1,5 +1,4 @@
-#dependencies
-
-node_modules
+# Dependency directories
+node_modules/
+jspm_packages/
 package-lock.json
-vite.config.js
